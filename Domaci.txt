@@ -1,1 +1,16 @@
-Programiranje je pisanje uputa raèunalu što i kako uèiniti, a izvodi se u nekom od programskih jezika. Programiranje je umjetnost i umijeæe u stvaranju programa za raèunala. Stvaranje programa sadrži u sebi pojedine elemente dizajna, umjetnosti, znanosti, matematike kao i inžinjeringa. Osoba koja stvara program zove se programer.
+Programiranje je pisanje uputa raèunalu što i kako uèiniti, a izvodi se u nekom od programskih jezika. Programiranje je umjetnost i umijeæe u stvaranju programa za raèunala. Stvaranje programa sadrži u sebi pojedine elemente dizajna, umjetnosti, znanosti, matematike kao i inžinjeringa. Osoba koja stvara program zove se programer.Programi ili upute za raèunalo pišu se u programskom jeziku upotrebom odreðene sintakse i pravila koja vrijede za svaki programski jezik (ili tip), koji se potom prevodi u strojni jezik koje je osobito za odreðeno raèunalo te je ovisno o njegovoj arhitekturi. Prevoðenje s višeg programskog jezika na strojni provodi se putem programa prevodioca (kompajler) ili se naredbe u višem jeziku izravno prevode preko takozvanog p_koda u strojni jezik.
+
+Primjeri programskih jezika:
+
+Assembler
+BASIC
+Pascal
+C/C++/C#
+Java
+Logo
+Fortran
+Primjer prevoditeljskog (interpretiranog) programskog jezika bio bi Basic (izvršava se unutar posebnog programa tzv. prevoditelja (eng. interpreter) koji stoji izmeðu stroja raèunala i programa). Postoje niži i viši programski jezici. Npr. assembler ili strojni kod je primjer nižeg programskog jezika (obièno se radi o izravnom pozivanju "naredbi centralne jedinice" (CPU) ili instrukcija kao npr. INC (uveæanje), MOV (kopiranje spremnika (registara)) itd.). Primjer višeg programskog jezika je C koji se mora prvo prevesti, a potom prilagoditi da radi na odreðenom operacijskom sustavu (eng. compile & link).
+
+Postoje drugi oblici klasifikacija i tipovi programskih jezika od èega je vjerojatno bitno spomenuti objektno-orjentirane jezike (C++, Java, ...) koji su danas najrašireniji u primjeni koristeæi razne mehanizme kakvi nisu bili u uporabi u npr. C-u i Pascal-u. Najbitniji pojmovi u tom sluèaju su objekt, enkapsulacija, nasljeðivanje itd.
+
+Pri programiranju se takoðer koriste razne metodologije razvoja software-a (programske podrške) pri kojima je dobro poèeti od vodopadnog modela, spiralnog, prototypinga i sliènih kao jednostavnih modela razvoja. Standardi za razvoj i osiguranje kvalitete (kakvoæe) software-a takoðer postoje od kojih je bitno spomenuti ISO standarde. Veæe tvrtke koje se bave razvoje software-a obièno koriste svoje metodologije razvijane godinama ili prilagoðavaju postojeæe kako bi pratile njihovu filozofiju razvoja, a sve u svrhu osiguranja kvalitete i uniformnosti razvoja.
